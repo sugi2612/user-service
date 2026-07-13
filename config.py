@@ -1,6 +1,3 @@
-Config.py 
-
-
 import os
 
 class Config:
